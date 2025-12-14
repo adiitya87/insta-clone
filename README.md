@@ -27,14 +27,3 @@ A fully functional social media application built using the **MERN Stack** (Mong
 * **JWT (JsonWebToken)** (Authentication)
 * **Bcrypt.js** (Password Hashing)
 * **Cors** (Cross-Origin Resource Sharing)
-
----
-
-## Installation & Setup
-
-Follow these steps to run the project locally.
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/adiitya87/insta-clone.git](https://github.com/adiitya87/insta-clone.git)
-cd insta-clone
